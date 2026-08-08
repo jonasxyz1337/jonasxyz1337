@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **how to fully use the power of ai**
 
+- 🔨 I’m currently learning **Hammer++**
+
 - 📫 My Discord **q1sx**
 
 <h1 align="left">👀 My Skills</h1>
