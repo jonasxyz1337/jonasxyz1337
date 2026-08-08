@@ -8,7 +8,7 @@
 - 📫 My Discord **q1sx**
 
 <h1 align="left">👀 My Skills</h1>
-- nothing
+nothing
 
 <h3 align="left">🤯🎁🤤</h3>
 <p align="left">
